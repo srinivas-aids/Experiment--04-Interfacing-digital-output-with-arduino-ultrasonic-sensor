@@ -1,7 +1,7 @@
 # EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
 
 ## AIM: 
-To interface ultrasonic sensor to measure an obstacle distance.
+To measure an given obstacle distance using ultrasonic sensor.
  
 ### COMPONENTS REQUIRED:
 1.	ultrasonic sensor module HC-SR04
@@ -83,7 +83,7 @@ void loop(){
 ![output](1.jpg)
 
 ### RESULTS
-An FSR(force sensitive resistor) has been interfaced and output voltage has been scaled to obtain the pressure applied.
+thus the distance value is mesured in "cm" using ultrasonic sensor
 
 
 
